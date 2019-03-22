@@ -39,7 +39,7 @@
             tools:text="Adana Kebab" />
 
         <TextView
-            android:id="@+id/cost"
+            android:id="@+id/status"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
@@ -47,7 +47,7 @@
             android:gravity="right"
             android:textColor="@color/colorSecondaryText"
             android:textSize="20sp"
-            tools:text="12.00 TL" />
+            tools:text="12.00 SGD" />
 
     </LinearLayout>
     <View

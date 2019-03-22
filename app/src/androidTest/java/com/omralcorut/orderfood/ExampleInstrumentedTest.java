@@ -23,4 +23,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.omralcorut.orderfood", appContext.getPackageName());
     }
+
+
 }

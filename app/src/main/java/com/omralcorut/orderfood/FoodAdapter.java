@@ -51,7 +51,7 @@ public class FoodAdapter extends ArrayAdapter<Food> {
         TextView name = (TextView) listItemView.findViewById(R.id.name);
         name.setText(currentFood.getName());
 
-        TextView cost = (TextView) listItemView.findViewById(R.id.cost);
+        TextView cost = (TextView) listItemView.findViewById(R.id.status);
         cost.setText(currentFood.getCost());
 
         return listItemView;

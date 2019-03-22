@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Open ask for check activity
     public void askForCheck(View v) {
-        Intent toBill = new Intent(MainActivity.this, AskForCheckActivity.class);
+        Intent toBill = new Intent(MainActivity.this, FoodStatusActivity.class);
         startActivity(toBill);
     }
 

@@ -62,7 +62,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:text="ASK FOR\nCHECK"
+            android:text="FOOD STATUS"
             android:textColor="@color/white"
             android:background="@color/colorPrimaryDark"
             android:onClick="askForCheck"/>
